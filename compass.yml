@@ -1,0 +1,13 @@
+name: go-password
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/4d513376-2bfa-45b2-a449-6b6b64abf697
+description: A Golang library for generating high-entropy random passwords similar to 1Password or LastPass.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
